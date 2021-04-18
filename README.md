@@ -1,1 +1,1 @@
-# FIR-Low-Pass-Filter-using-Verilog-
+# FIR Low Pass Filter using Verilog HDL
